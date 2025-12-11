@@ -136,8 +136,6 @@ Check out the live demo: [MyMirath Demo](https://your-demo-link.com)
 
 Contributions to **UI improvements, translations, or documentation** are welcome.  
 
-> ⚠️ **Important:** Do not attempt to reuse the core inheritance logic. It is proprietary and protected by copyright.
-
 ---
 
 ## 📜 License
