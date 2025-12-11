@@ -150,4 +150,4 @@ Contributions to **UI improvements, translations, or documentation** are welcome
 
 For questions or support:  
 **Email:** ahmadzai.omran12@gmail.com  
-**Website:** [your-website.com](https://your-website.com)  
+
