@@ -127,8 +127,7 @@ npm start
 ---
 
 ## 🌐 Live Demo
-
-Check out the live demo: [MyMirath Demo]([https://mymirath.netlify.app/])
+Check out the live demo: [MyMirath Demo](https://mymirath.netlify.app)
 
 ---
 
