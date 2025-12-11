@@ -118,14 +118,6 @@ npm start
 
 ---
 
-## 🎨 Screenshots
-
-![Home Page](./screenshots/home.png)  
-![Heir Form](./screenshots/heirform.png)  
-![Fatwas Section](./screenshots/fatwas.png)  
-
----
-
 ## 🌐 Live Demo
 Check out the live demo: [MyMirath Demo](https://mymirath.netlify.app)
 
