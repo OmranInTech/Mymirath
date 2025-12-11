@@ -5,7 +5,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.2-teal?logo=tailwind-css&logoColor=white)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
-> **Note:** The core logic for Islamic inheritance calculation is proprietary and copyrighted. It is not open for reuse or redistribution. Please do not copy or use it outside of this project.
+> **Note:** The core logic for Islamic inheritance calculation is not included.
 
 **MyMirath** is a professional Islamic inheritance calculator built with **React**, **JavaScript**, and **Tailwind CSS**. It simplifies complex Shariah inheritance calculations, providing accurate results for all possible heirs in a clean, intuitive, and user-friendly interface.  
 
