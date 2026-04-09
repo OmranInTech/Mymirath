@@ -89,7 +89,7 @@
 ## 🚀 Getting Started
 
 1. Clone the repository:
-git clone https://github.com/yourusername/mymirath.git
+git clone https://github.com/OmranInTech/mymirath.git
 
 2. Install dependencies:
 npm install
