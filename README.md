@@ -38,47 +38,82 @@
 
 ## 🏗 Component Structure
 
-The project is organized into reusable React components:
-
-- **Hero** – Landing section introducing the project  
-- **Navbar** – Responsive navigation with language selector  
-- **FatwasSection** – Displays relevant Islamic scholarly opinions  
-- **Features** – Highlights key functionalities  
-- **HeirFormSection1** – Main form to input heirs and calculate inheritance  
-- **Footer** – Contains footer information and links  
-- **SEO** – Handles meta tags and SEO setup  
+- Hero  
+- Navbar  
+- FatwasSection  
+- Features  
+- HeirFormSection1  
+- Footer  
+- SEO  
 
 ---
 
 ## 🗂 Pages
 
-Located in the `pages` folder:
-
-- **Home** – Landing page with main sections  
-- **About** – Project details and objectives  
-- **Statistics** – Displays inheritance results  
+- Home  
+- About  
+- Statistics  
 
 ---
 
 ## 🌐 Localization
 
-Supports multiple languages using structured JSON files:
-
-- Pashto (`ps.json`)  
-- Persian (`fa.json`)  
-- Urdu (`ur.json`)  
-- English (`en.json`)  
-- Arabic (`ar.json`)  
+- Pashto  
+- Persian  
+- Urdu  
+- English  
+- Arabic  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, JavaScript (ES6+), Tailwind CSS  
-- **Routing:** React Router  
-- **State Management:** React State / Context API  
-- **Localization:** Custom multi-language implementation (i18n)  
+- React, JavaScript (ES6+), Tailwind CSS  
+- React Router  
+- Context API  
+- Custom i18n  
 
 ---
 
 ## 📁 Folder Structure
+
+/src
+ ├── /components
+ ├── /locales
+ ├── /pages
+ ├── App.jsx
+ └── index.jsx
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+git clone https://github.com/yourusername/mymirath.git
+
+2. Install dependencies:
+npm install
+
+3. Start development server:
+npm start
+
+4. Open in browser:
+http://localhost:3000
+
+---
+
+## 🌐 Live Demo
+
+https://mymirath.netlify.app
+
+---
+
+## 📜 License
+
+© 2025 MyMirath. All rights reserved.
+
+---
+
+## 📬 Contact
+
+Email: ahmadzai.omran12@gmail.com
